@@ -1,5 +1,4 @@
-
-pack_anim.png
+pack_open.png
 size: 2028, 1820
 format: RGBA8888
 filter: Linear, Linear
@@ -75,7 +74,7 @@ sol_coin
   offset: 0, 0
   index: -1
 
-pack_anim_2.png
+pack_open_2.png
 size: 1561, 1533
 format: RGBA8888
 filter: Linear, Linear
@@ -109,7 +108,7 @@ Explosion/Layer 9
   offset: 169, 140
   index: -1
 
-pack_anim_3.png
+pack_open_3.png
 size: 1592, 800
 format: RGBA8888
 filter: Linear, Linear
